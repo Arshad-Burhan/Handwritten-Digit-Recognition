@@ -1,10 +1,10 @@
-## Machine Learning (Coursera)
+## Machine Learning (Coursera) by Andrew NG
 
 ## Project: Handwritten digit Recognition
 
 ### Project Overview
 
-For this project,I used one-vs-all logistic regression and neural networks to recognize handwritten digits (from 0 to 9). Automated handwritten digit recognition is widely used today - from recognizing zip codes (postal codes)on mail envelopes to recognizing amounts written on bank checks.
+For this project,I used one-vs-all logistic regression and neural networks to recognize handwritten digits (from 0 to 9). Automated handwritten digit recognition is widely used today - from recognizing zip codes (postal codes)on mail envelopes to recognizing amounts written on bank checks. The project is completed using Matlab.
 
 ### Dataset description
 
