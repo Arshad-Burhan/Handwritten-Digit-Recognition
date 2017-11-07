@@ -19,3 +19,10 @@
 - sigmoidGradient.m - Compute the gradient of the sigmoid function
 - randInitializeWeights.m - Randomly initialize weights
 - nnCostFunction.m - Neural network cost function
+
+#### Network architecture 
+
+Feed forward network with 3 layers-
+- input layer – 400 units (400 features)
+- Hidden layer – 25 units (advised by course instructor)
+- Output layer – 10 units (10 output units)
